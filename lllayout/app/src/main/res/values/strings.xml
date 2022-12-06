@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lllayout</string>
+    <string name="Heading">Welcome to Tic Tac Toe</string>
+    <string name="author">By Arfath</string>
+    <string name="grid">MainGrid</string>
+    <string name="PlayerTurn">"X's player turn "</string>
+    <string name="x_s_player_turn">X Player turn</string>
+
+</resources>
